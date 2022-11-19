@@ -1,3 +1,3 @@
 # Cardiovascular-Risk-Prediction
 
-## Introduction.
+## Introduction
