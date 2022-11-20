@@ -13,6 +13,16 @@ As a result, it is critical that we accurately predict the risk of heart disease
 * **Model Explainability**
 * **Conclusion**
 
+## Used Algorithms:-
+		                     
+1.	**Logistic Regression**
+2.	**Decision Tree**
+3.	**Random Forest**
+4.	**XGBoost**
+5.	**Support Vector Machine**
+6.	**K-Nearest Neighbors**
+7.	**Naive Bayes**
+
 ## Conclusion
 Predicting the risk of coronary heart disease is critical for reducing fatalities caused by this disease, we can avert deaths by taking required medications and precautions if we can foresee the danger of this illness ahead of time.
 
