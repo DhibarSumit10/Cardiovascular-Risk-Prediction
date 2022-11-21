@@ -13,7 +13,7 @@ As a result, it is critical that we accurately predict the risk of heart disease
 * **Model Explainability**
 * **Conclusion**
 
-## Used Algorithms:-
+## Algorithms Used:-
 		                     
 1.	**Logistic Regression**
 2.	**Decision Tree**
