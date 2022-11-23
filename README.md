@@ -32,6 +32,6 @@ Predicting the risk of coronary heart disease is critical for reducing fatalitie
 
 * There may be a case where the patients who are incorrectly classified as suffering from heart disease is equally important as patients who are correctly classified as suffering from heart disease, because patients who are incorrectly classified they may have some other illness, so in that case high f1 score is desired. **Logistic Regression, XGBoost, K-NN these are the model with most F1 score.**
 
-* From our analysis, it is found that the **'Age'** of the patient is the most important feature in determining the risk of coronary heart disease, middle and older age people are more prone to coronary heart disease than younger people  followed by **'cigarettes per day'**,  **'BP Meds'**, **'Prevalent Hypertension'** are also very important feature in determining risk of heart disease.
+* From our analysis, it is found that the **'Age'** of the patient is the most important feature in determining the risk of coronary heart disease (CHD), middle and older age people are more prone to coronary heart disease than younger people  followed by **'cigarettes per day'**,  **'BP Meds'**, **'Prevalent Hypertension'** are also very important feature in determining risk of heart disease.
 
 * Future developments must include a strategy to improve models scores with the help of more data from people with different medical history.
